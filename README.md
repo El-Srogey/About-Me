@@ -1,2 +1,3 @@
 # Tech4Dev
-For Tech4Dev Git Course
+## Our First Repo 
+For *__Tech4Dev__* Git Course
