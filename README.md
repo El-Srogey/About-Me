@@ -61,5 +61,5 @@ I was one of 30 AI participants at Samsung Innovation Campus. It was a six-week 
 ## 📧 Contact Me
 If you'd like to get in touch, you can reach me at __mohamed192494@fci.bu.edu.eg__ 
 1. <a href="https://www.linkedin.com/in/mohamed-abd-el-mohsen-1083a7197/"> LinkedIn </a>
-2. <a href="https://www.kaggle.com/mohamedelsrogy"> GitHub </a>\
+2. <a href="https://www.kaggle.com/mohamedelsrogy"> Kaggle </a>\
 __Thanks for stopping by! 🙌__
